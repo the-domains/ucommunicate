@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Uncommon Communication]]></title>
         <description><![CDATA[Uncommon Communication]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ucommunicate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 04:44:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 04:46:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ucommunicate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The sky....</p>]]></description>
-            <link>undefined94fb9e02-ed83-43b8-b691-c4fa546b575a/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5855cf38-2b84-4d63-b3ea-f93745efc069.jpg">]]></description>
+            <link>https://thegrid.ai/ucommunicate/94fb9e02-ed83-43b8-b691-c4fa546b575a/index.html</link>
             <guid isPermaLink="false">94fb9e02-ed83-43b8-b691-c4fa546b575a</guid>
-            <pubDate>Sat, 30 Jan 2016 04:41:44 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 04:43:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
