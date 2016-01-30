@@ -15,12 +15,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.4693019
 typography_spectrum: 0.02688504
 name: ucommunicate
