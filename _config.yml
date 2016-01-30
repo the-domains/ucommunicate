@@ -1,0 +1,14 @@
+layout_spectrum: 0.4693019
+typography_spectrum: 0.02688504
+color:
+  saturation: 0.5531352
+  lightness: 0.03581979
+  brandStrength: 0.6100222
+  rhythmicContrast: 0.292133
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: ucommunicate
